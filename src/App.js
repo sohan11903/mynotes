@@ -29,7 +29,7 @@ const onDelete = (id) =>{
       <hr/>
       <br/>
       {addItem.map((val,index)=>{ 
-        if(val.title=="" && val.content==""){
+        if(val.title==="" && val.content===""){
           
         }
         else{
